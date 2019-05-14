@@ -21,8 +21,8 @@ summarize articles by selecting a subset of words that retain the most important
 ![Screenshot](https://github.com/akhil117/Summarizer/blob/master/app/src/main/res/drawable/block_3.png)
 
 ### Android ScreenShots
- ![Screenshot](https://github.com/akhil117/Summarizer/blob/master/app/src/main/res/drawable/splash.jpeg) 
-![Screenshot] (https://github.com/akhil117/Summarizer/blob/master/app/src/main/res/drawable/login.jpeg)
+![Screenshot](https://github.com/akhil117/Summarizer/blob/master/app/src/main/res/drawable/splash.jpeg) 
+![Screenshot](https://github.com/akhil117/Summarizer/blob/master/app/src/main/res/drawable/login.jpeg)
 ![Screenshot](https://github.com/akhil117/Summarizer/blob/master/app/src/main/res/drawable/googlesignin.jpeg)
 ![Screenshot]https://github.com/akhil117/Summarizer/blob/master/app/src/main/res/drawable/newuser.jpeg)
 ![Screenshot](https://github.com/akhil117/Summarizer/blob/master/app/src/main/res/drawable/viewhistory.jpeg)
